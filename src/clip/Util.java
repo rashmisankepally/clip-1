@@ -24,7 +24,7 @@ public class Util {
 	 * @throws Exception
 	 */
 	public static void main(String[] args) throws Exception {
-		String pathPrefix = "/Users/JaiAbhay/Dropbox/private/study/ComputationalLinguistic1/FinalProject/DataCopy1";
+		String pathPrefix = "DataCopy1";
 		String train = pathPrefix + "/" + "TrainingSet.txt";
 		String test = pathPrefix + "/" + "TrialSet.txt";
 		;
